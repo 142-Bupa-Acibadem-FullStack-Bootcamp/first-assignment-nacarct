@@ -1,0 +1,12 @@
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.deps.json
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.dll
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\ref\Northwind.Bll.dll
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\bin\Debug\net5.0\Northwind.Bll.pdb
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.AssemblyInfoInputs.cache
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.AssemblyInfo.cs
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.CoreCompileInputs.cache
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.dll
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\ref\Northwind.Bll.dll
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.pdb
+C:\Users\nacar\source\repos\Northwind\Northwind.Bll\obj\Debug\net5.0\Northwind.Bll.csproj.AssemblyReference.cache
